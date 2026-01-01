@@ -62,9 +62,10 @@ Este repositório foi criado para servir como:
 
 ---
 ## 💬 Contribuições
-Pull requests, sugestões e melhorias são bem-vindas!
 
-🧠**Cada pequeno passo que você dá hoje constrói o futuro que você sempre imaginou. Continue avançando — você está no caminho certo.**  - Francis Nascimento
+#### Pull requests, sugestões e melhorias são bem-vindas!
+---
+### 🧠**Cada pequeno passo que você dá hoje constrói o futuro que você sempre imaginou. Continue avançando, você está no caminho certo.**  - Francis Nascimento
 
 ---
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5c421d5c-ca5e-423b-b467-fd86bca773a9" />
