@@ -49,7 +49,7 @@ Este repositório foi criado para servir como:
 📌 **Quer aprender tudo de forma estruturada:** Use *Completo_comentado*.
 
 ---
-## 📁 Estrutura sugerida do repositório
+## 📁 Estrutura do repositório
 ```
 📂 SQL-Guias/
  ├── 📘 Guia_SQL_Completo_comentado.md
